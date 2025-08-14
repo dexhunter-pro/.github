@@ -16,7 +16,6 @@ Run the `.exe` file to start the application.
 
 ## 📸 Overview
 ![Screenshot 1](https://lh7-us.googleusercontent.com/CFleEZVM0vo6N8CK3nhk5vhMUBHvFubCJjMiPVoAMIfYtyiZwCTTp3Iy_7S4EX4SOnVH5WxNz-QnRC_jvvqpYJKUGyghmjpGqkT95BR68wqa_AUlD-PsPI-5Hq-Nwcncq1wtsBHnqpNWDSpBQV5qvBg)  
-![Screenshot 2](https://lh7-us.googleusercontent.com/RhyNp2GF8uhNfMNVVsjsaaWMmaDLW5ZIKzi6ns1VKFznukqV6a--fsXhSvSmn_ZRTixEWK6zKwNqxQHv7ggu-j5Zx1AMAiFkpN0IS2RnTc4EcUHJCTUt2Q-k2AJovn4jT45JnTcdjHh-g7_kFmvkXKI)  
 
 ## 🎯 Key Features
 ⚡ **Automated Sniping** – Execute buy and sell orders instantly at target prices.  
